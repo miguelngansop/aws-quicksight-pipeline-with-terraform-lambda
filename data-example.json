@@ -1,0 +1,9 @@
+[{
+  "id": 1,
+  "name": "John Doe",
+  "email": "john@example.com",
+  "age": 30,
+  "city": "New York",
+  "country": "USA",
+  "salary": 100000
+}]
